@@ -1,0 +1,25 @@
+# Audio settings
+sample_rate: 48000        # Hz
+duration: 5.0             # seconds
+channels: 1
+
+# Signal settings
+test_tone_freq: 1000      # Hz
+sweep_start_freq: 20      # Hz
+sweep_end_freq: 20000     # Hz
+
+# Output settings
+save_recordings: true
+recording_path: "data/raw/"# Audio settings
+sample_rate: 48000        # Hz
+duration: 5.0             # seconds
+channels: 1
+
+# Signal settings
+test_tone_freq: 1000      # Hz
+sweep_start_freq: 20      # Hz
+sweep_end_freq: 20000     # Hz
+
+# Output settings
+save_recordings: true
+recording_path: "data/raw/"
