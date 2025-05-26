@@ -1,7 +1,0 @@
-[2025-05-26 15:55:29,952] [INFO] Configuration loaded successfully.
-[2025-05-26 15:55:29,953] [DEBUG] Loaded config: {'sample_rate': 48000, 'duration': 5.0, 'channels': 1, 'test_tone_freq': 1000, 'sweep_start_freq': 20, 'sweep_end_freq': 20000, 'save_recordings': True, 'recording_path': 'data/raw/'}
-[2025-05-26 15:55:29,953] [INFO] Audio Analysis Program Started
-[2025-05-26 15:55:30,591] [INFO] Generated test sine wave.
-[2025-05-26 15:55:35,979] [INFO] Playback complete.
-[2025-05-26 15:55:44,885] [INFO] Recording complete.
-[2025-05-26 15:55:44,893] [INFO] Saved both generated and recorded audio.

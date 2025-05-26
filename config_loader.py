@@ -1,3 +1,4 @@
+# Author: Alexandro Jauregui
 # config_loader.py
 import yaml
 

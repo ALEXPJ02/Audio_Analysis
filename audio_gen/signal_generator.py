@@ -1,3 +1,4 @@
+# Author: Alexandro Jauregui
 import numpy as np
 
 def generate_sine_wave(freq=1000, duration=5.0, sample_rate=48000, amplitude=0.5):

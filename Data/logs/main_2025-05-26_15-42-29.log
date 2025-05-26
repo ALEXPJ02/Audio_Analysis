@@ -1,3 +1,0 @@
-[2025-05-26 15:42:29,284] [INFO] Configuration loaded successfully.
-[2025-05-26 15:42:29,284] [DEBUG] Loaded config: {'sample_rate': 48000, 'duration': 5.0, 'channels': 1, 'test_tone_freq': 1000, 'sweep_start_freq': 20, 'sweep_end_freq': 20000, 'save_recordings': True, 'recording_path': 'data/raw/'}
-[2025-05-26 15:42:29,284] [INFO] Audio Analysis Program Started

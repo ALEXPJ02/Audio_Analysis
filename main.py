@@ -1,3 +1,4 @@
+# Author: Alexandro Jauregui
 import os
 from utils.logger import setup_logger
 from config_loader import load_config
